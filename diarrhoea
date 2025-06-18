@@ -1,32 +1,89 @@
-🧑‍⚕️ Simulated History-Taking Questions 
-    1. “Can I get your name and NRIC?”
-    2. “Hi Mr. Ang, I understand you’ve been having diarrhoea. Can you tell me more about that?”
-    3. “When did the diarrhoea start?”
-    4. “How many times a day do you pass motion?”
-    5. “What does the stool look like — is it watery or formed? Any changes in colour?”
-    6. “Any blood or mucus in the stool?”
-    7. “Have you noticed any pain in your tummy?”
-    8. “Is the pain before or after passing motion?”
-    9. “Is the pain sharp or dull? And where exactly do you feel it?”
-    10. “Do you feel bloated or gassy?”
-    11. “Any nausea or vomiting?”
-    12. “Do you have a fever?”
-    13. “Have you lost any weight recently?”
-    14. “Any changes in your appetite?”
-    15. “Has the diarrhoea affected your energy levels or sleep?”
-    16. “Did anything happen before the diarrhoea started, like travel or trying new food?”
-    17. “Have you travelled recently — in the last few months?”
-    18. “Where did you travel to? What did you eat or drink there?”
-    19. “Have you been in close contact with anyone who had similar symptoms?”
-    20. “Have you taken any medications for the diarrhoea?”
-    21. “Have you seen a doctor about this before?”
-    22. “Any past medical conditions I should know about?”
-    23. “Any surgeries in the past?”
-    24. “Any family history of bowel problems or cancer?”
-    25. “Any joint pain, skin changes, or eye problems recently?”
-    26. “Are you currently taking any medications?”
-    27. “Any food that makes the diarrhoea better or worse?”
-    28. “How’s your usual diet like?”
-    29. “What do you do for work? Has this affected your job?”
-    30. “How’s your stress level recently?”
-    31. “Do you smoke or drink alcohol?”
+🗣️ Simulated Full Conversation Flow
+Opening
+
+    “Hi Mr. Ang, I understand you're here because of diarrhoea. Can you tell me more about it?”
+    “When did it start?”
+    “Was it sudden or gradual?”
+
+Symptom Characterisation
+
+    “How often are you having diarrhoea in a day?”
+    “What’s the consistency like — watery or formed?”
+    “Any change in the colour or smell of the stools?”
+    “Do you see any blood or mucus in the stool?”
+
+→ If you say watery, frequent:
+8. “Has the number of times increased over time?”
+Associated Symptoms
+
+    “Do you have any abdominal pain?”
+    “Where is the pain? Is it sharp, dull?”
+    “Does the pain come before or after you pass motion?”
+    “Any nausea, vomiting, or bloating?”
+
+Systemic Effects
+
+    “Have you noticed any weight loss?”
+    “Do you feel more tired than usual?”
+    “Any changes in your appetite?”
+
+Trigger Discovery – Travel
+
+    “Did anything unusual happen before this started? Like a change in diet or lifestyle?”
+    “Have you been overseas recently?”
+    “Where did you go and how long were you there?”
+    “Was it for work or holiday?”
+    “What kind of food and water did you have there?”
+    “Did you fall sick while you were there?”
+    “Anyone else you were with have similar symptoms?”
+
+Treatment History
+
+    “Have you taken anything for the diarrhoea?”
+    “Did you see a doctor?”
+    “Did they give you any antibiotics or other medication?”
+    “Did it help at all?”
+
+Diet and Lifestyle
+
+    “What’s your usual diet like?”
+    “Do you take a lot of dairy or spicy food?”
+    “Do certain foods make the diarrhoea worse?”
+
+Medical History
+
+    “Do you have any past medical conditions?”
+    “Any surgeries before?”
+    “Are you on any regular medications?”
+
+Family History
+
+    “Any family history of bowel problems or cancer?”
+
+Social History
+
+    “What do you do for a living?”
+    “How’s your work schedule — do you get regular meals?”
+    “Is work stressful lately?”
+    “Has the diarrhoea affected your work performance?”
+
+Review of Systems / Uncovering Other Symptoms
+
+    “Besides the diarrhoea, have you noticed any joint pains?”
+    “Where are the joint pains? How long have you had them?”
+    “Any swelling or redness?”
+    “Have you seen any rashes on your skin?”
+    “What do they look like and where do they appear?”
+    “Do they itch? How long do they last?”
+    “Any eye redness, mouth ulcers, or urinary symptoms?”
+
+Lifestyle
+
+    “Do you smoke or drink alcohol?”
+    “Do you use any recreational drugs?”
+    “Are you sexually active?”
+
+Closing
+
+    “Is there anything you’re particularly worried about?”
+    “What are you hoping we can help you with today?”
