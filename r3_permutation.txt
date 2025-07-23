@@ -1,0 +1,17 @@
+/*
+problem: (leetcode n.46 permutations)
+display all permutations of characters for a set given as argv[1], in the alphabetical order
+exemple1)
+./a.out po
+op
+po
+
+exemple2)
+./a.out cba
+abc
+acb
+bac
+bca
+cab
+cba
+*/
